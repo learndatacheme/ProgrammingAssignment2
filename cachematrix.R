@@ -4,7 +4,6 @@
 ## the inverse of the matrix is stored in cache and each
 ## time the function to inverse matrix is called the cache is checked first.
 
-## Write a short comment describing this function
 ## The makeCacheMatrix function will set the value of the matrix, get the value of matrix,
 ## set the value of the inverse matrix, and get the value of the inverse matrix.
 ## inv variable holds the inverse of the matrix
